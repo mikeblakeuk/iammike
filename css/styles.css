@@ -357,13 +357,13 @@ a.picA span {
     letter-spacing: .1em;
     font-weight: 300;
     padding-bottom: 1px;
-    border-bottom: #f99289 1px dotted;
+    border-bottom: #8992f9 1px dotted;
     transition: border .25s ease-in-out;
     -moz-transition: border .25s ease-in-out;
     -webkit-transition: border .25s ease-in-out;
 }
 #slideOut {
-    background-color: #f99289;
+    background-color: #8992f9;
     line-height: 160%;
     padding: 0 7px;
     font-size: 1.1em;
@@ -434,7 +434,7 @@ p strong { font-weight: normal!important }
 p.first { margin-top: .6em }
 p.first a {
     padding-bottom: 1px;
-    border-bottom: #f99289 1px dotted;
+    border-bottom: #8992f9 1px dotted;
     transition: border .25s ease-in-out;
     -moz-transition: border .25s ease-in-out;
     -webkit-transition: border .25s ease-in-out;
@@ -451,7 +451,7 @@ a {
 }
 a span {
     padding-bottom: 1px;
-    border-bottom: #f99289 1px dotted;
+    border-bottom: #8992f9 1px dotted;
     transition: border .25s ease-in-out;
     -moz-transition: border .25s ease-in-out;
     -webkit-transition: border .25s ease-in-out;
@@ -463,7 +463,7 @@ a:hover span {
     -webkit-transition: border .25s ease-in-out;
 }
 a i {
-    color: #f99289;
+    color: #8992f9;
     transition: color .25s ease-in-out;
     -moz-transition: color .25s ease-in-out;
     -webkit-transition: color .25s ease-in-out;
@@ -474,7 +474,7 @@ a:hover i {
     -moz-transition: color .25s ease-in-out;
     -webkit-transition: color .25s ease-in-out;
 }
-.icon-mail { color: #f99289 }
+.icon-mail { color: #8992f9 }
 @media all and (min-width:1500px) { 
     #detailsCopy p,
     #slideIn,
